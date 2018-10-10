@@ -1,0 +1,10 @@
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\StringCapitalize\obj\Debug\netcoreapp2.1\StringCapitalize.csproj.CoreCompileInputs.cache
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\StringCapitalize\obj\Debug\netcoreapp2.1\StringCapitalize.AssemblyInfoInputs.cache
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\StringCapitalize\obj\Debug\netcoreapp2.1\StringCapitalize.AssemblyInfo.cs
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\StringCapitalize\bin\Debug\netcoreapp2.1\StringCapitalize.deps.json
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\StringCapitalize\bin\Debug\netcoreapp2.1\StringCapitalize.runtimeconfig.json
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\StringCapitalize\bin\Debug\netcoreapp2.1\StringCapitalize.runtimeconfig.dev.json
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\StringCapitalize\bin\Debug\netcoreapp2.1\StringCapitalize.dll
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\StringCapitalize\bin\Debug\netcoreapp2.1\StringCapitalize.pdb
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\StringCapitalize\obj\Debug\netcoreapp2.1\StringCapitalize.dll
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\StringCapitalize\obj\Debug\netcoreapp2.1\StringCapitalize.pdb

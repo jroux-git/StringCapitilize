@@ -1,0 +1,17 @@
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csprojAssemblyReference.cache
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CoreCompileInputs.cache
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfoInputs.cache
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.AssemblyInfo.cs
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.deps.json
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.json
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.runtimeconfig.dev.json
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.dll
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\bin\Debug\netcoreapp2.1\UnitTests.pdb
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\bin\Debug\netcoreapp2.1\StringCapitalize.dll
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\bin\Debug\netcoreapp2.1\StringCapitalize.pdb
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.csproj.CopyComplete
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.dll
+D:\JeanRoux\Development\Visual Studio 2017\Projects\StringCapitalize\UnitTests\obj\Debug\netcoreapp2.1\UnitTests.pdb
